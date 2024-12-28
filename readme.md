@@ -1,6 +1,6 @@
 ```
 #Gantala Avinash
-##Frontend Developer
+##Full Stack Web Developer
 #Poojwala Lingareddy
 ##salesforce Developer
 
